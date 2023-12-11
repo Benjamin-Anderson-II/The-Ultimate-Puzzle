@@ -1,7 +1,7 @@
 # The-Ultimate-Puzzle
 This program finds all possible solutions for the - The Ultimate Puzzle 48 Puzzles rolled into 1
 
-This program has been commented on by [blue-army](https://github.com/blue-army), but the advice has not been taken into consideration yet. 
+This program has been commented on by [blue-army](https://github.com/blue-army), but the advice has not been implemented yet. 
 
 They were also the person to give this puzzle to me to solve, so the comment about stickers is because they had already put stickers on all of the pieces
 
